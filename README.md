@@ -1,1 +1,1 @@
-# My Messaging Service Repository
+# Messaging Service Repository
